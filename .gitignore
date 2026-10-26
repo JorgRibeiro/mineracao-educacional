@@ -1,0 +1,7 @@
+# Microdados pesados do Censo Escolar
+/microdados_censo_escolar_2023/dados/*.csv
+/microdados_censo_escolar_2024_defeso/dados/*.csv
+/microdados_censo_escolar_2025_v2/dados/*.csv
+
+# Arquivos temporários do Microsoft Excel
+~$*.xlsx
